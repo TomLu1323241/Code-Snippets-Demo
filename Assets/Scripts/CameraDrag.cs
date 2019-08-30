@@ -11,7 +11,6 @@ public class CameraDrag : MonoBehaviour
 
     Vector3 origin;
 
-
     private void Start()
     {
         origin = this.transform.position;
